@@ -1,0 +1,41 @@
+header{
+ height: 150px;
+ width: auto;
+}
+
+.logoheader{
+ height: 150px;
+ width: auto;
+
+}
+
+.titreheader{
+ font-family: 'Encode Sans', sans-serif;
+ font-size: 30px;
+ color: black;
+ float: right;
+ margin-right: auto;
+ margin-left: auto;
+
+}
+
+
+h1{
+ font-family: 'Encode Sans', sans-serif;
+ font-size: 30px;
+ color: black;
+
+}
+
+.accueil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 4px;
+  height: 40vh;
+  background-image: url('https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_1280.jpg');
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed
